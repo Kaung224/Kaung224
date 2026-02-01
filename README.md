@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Kaung224/Kaung224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Kaung Khant, a Computer Science student based in Toronto.
 
-Here are some ideas to get you started:
+I enjoy building web applications and learning how things work behind the scenes.
+If I have an idea, I like turning it into a real project and improving it step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes React, JavaScript, Tailwind CSS, Java, Node.js, and Express.
+I’m especially interested in Full-Stack web development and continuously learning new tools and frameworks.
+
+I’ve been working on personal and school projects to improve my skills and build a strong foundation for my future career.
+
+Interests & Fun Facts:
+- Full-Stack Development
+- Hobbies : Anime,Gym,Video Games
