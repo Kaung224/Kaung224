@@ -10,6 +10,8 @@ I’m especially interested in Full-Stack web development and continuously learn
 
 I’ve been working on personal and school projects to improve my skills and build a strong foundation for my future career.
 
+GitHub repositories for my school courses can be found on my Github Profile.
+
 Interests & Fun Facts:
 - Full-Stack Development
 - Hobbies : Anime,Gym,Video Games
